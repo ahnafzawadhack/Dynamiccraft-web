@@ -1,0 +1,86 @@
+body{
+    background-image: url(23.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment:fixed ;
+   background-size: cover;
+    
+    }
+
+    .w {
+        text-align:center;
+        height:70px ;
+        padding: 10px 20px;
+    }
+    .w2 {
+        text-align:center;
+        height:70px ;
+        padding: 10px 20px;
+    }
+    .w3 {
+        text-align:center;
+        height:70px ;
+        padding: 10px 20px;
+        
+    }
+    
+    .w5 {
+        text-align: center;
+        height: 70px;
+        padding: 10px 20px;
+
+    }
+    .w7 {
+        text-align: center;
+        animation-duration: 10s;
+        animation-name: bg;
+        
+        
+    }
+    .w8 {
+        text-align: center;
+        height: 70px;
+        padding: 30px 40px;
+    }
+    .f1 {
+        text-align: center;
+        
+    }
+    
+    @keyframes bg {
+ 0% {
+     color: pink;
+  }
+ 100% {
+    color: blue;
+ }
+ 50% {
+    color: red;
+ }
+ 40% {
+    color: green;
+ }
+ 30% {
+    color: darkcyan;
+ }
+ 20% {
+    color: rgb(88, 48, 72);
+ }
+ 10% {
+    color: black;
+ }
+ from {
+    margin-left: 100%;
+ }
+ to {
+    margin-left: 0%;
+ }
+
+
+
+    }
+ 
+#logo{
+    text-align: center;
+    
+}
